@@ -58,3 +58,5 @@ struct PS_INPUT
 	// SHADER MODEL 3 ONLY
 	float2 pos			: VPOS;
 };
+
+#include "functions.hlsl"
